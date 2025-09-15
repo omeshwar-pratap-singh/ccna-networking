@@ -7,7 +7,6 @@
 ---
 
 ## 🎯 Objective
-- Create the network diagram as shown at 16:40 of the Day 1 video.
 - Learn to add and connect devices in Packet Tracer.
 - Practice using the **Automatically Choose Connection Type** function.
 
