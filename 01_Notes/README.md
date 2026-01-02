@@ -14,3 +14,8 @@
 12. [VLANs Part-2](12.1_vlans(part2).pdf)
 12. [VLANs Part-2](12.2_vlans(part3).pdf)
 13. [DTP vs VTP](13_dtp-vs-vtp.pdf)
+14. [STP Part-1](14.1_stp(part1).pdf)
+14. [STP Part-2](14.2_stp(part2).pdf)
+15. [STP Toolkit](15.1_stp_toolkit.pdf)
+15. [STP Toolkit](15.2_stp_toolkit.pdf)
+16. [Rapid STP](16_rapid_stp.pdf)
