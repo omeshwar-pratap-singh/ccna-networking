@@ -1,8 +1,8 @@
-# Lab: Network Devices
+# Lab: Secure Branch Network Design
 
 **Date:** 2025-05-20  
 **Tool:** Cisco Packet Tracer  
-**Lab File:** `network-devices.pkt`
+**Lab File:** `secure_branch_network_design.pkt`
 
 ---
 
@@ -51,6 +51,6 @@ The network topology was successfully created in Packet Tracer according to the 
 ---
 
 ## 📂 Files in this folder
-- `network-devices.pkt` → Packet Tracer lab file  
+- `secure_branch_network_design.pkt` → Packet Tracer lab file  
 - `topology.jpg` → Final topology screenshot  
 - `README.md` → Lab documentation
