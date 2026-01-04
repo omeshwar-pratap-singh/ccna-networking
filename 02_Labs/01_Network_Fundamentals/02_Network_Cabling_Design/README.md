@@ -1,8 +1,7 @@
-# Lab: Connecting Devices
-
+# Lab: Network Cabling Design
 **Date:** 2025-05-21  
 **Tool:** Cisco Packet Tracer  
-**Lab File:** `connecting-devices.pkt`
+**Lab File:** `network_cabling_design.pkt`
 
 ---
 
@@ -56,6 +55,6 @@ The topology was successfully created. All devices are connected with correct ca
 ---
 
 ## 📂 Files in this folder
-- `connecting-devices.pkt` → Packet Tracer lab file  
+- `network_cabling_design.pkt` → Packet Tracer lab file  
 - `topology.jpg` → Final topology screenshot  
 - `README.md` → Lab documentation  

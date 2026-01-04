@@ -2,7 +2,7 @@
 
 **Date:** 2025-09-16  
 **Tool:** Cisco Packet Tracer  
-**Lab File:** `switches-interface.pkt`
+**Lab File:** `switch_interface_configuration.pkt`
 
 ---
 
@@ -62,7 +62,7 @@
 ---
 
 ## 🔧 Steps Performed
-1. Opened `switches-interface.pkt` in Cisco Packet Tracer.  
+1. Opened `switch_interface_configuration.pkt` in Cisco Packet Tracer.  
 2. Configured hostnames for R1, SW1, and SW2.  
 3. Assigned IP addresses to R1 and all PCs.  
 4. Set speed and duplex manually on router–switch and switch–switch connections.  
@@ -85,6 +85,6 @@
 ---
 
 ## 📂 Files in this folder
-- `switches-interface.pkt` → Packet Tracer lab file  
+- `switch_interface_configuration.pkt` → Packet Tracer lab file  
 - `topology.jpg` → Final topology screenshot  
 - `README.md` → Lab documentation  

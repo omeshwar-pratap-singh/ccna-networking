@@ -1,8 +1,7 @@
-# Lab: IPv4 Addressing & Router Interface Configuration
-
+# Lab: IPv4 Address Configuration
 **Date:** 2025-09-16  
 **Tool:** Cisco Packet Tracer  
-**Lab File:** `ipv4-addressing.pkt`
+**Lab File:** `IPv4_address_configuration.pkt`
 
 ---
 
@@ -56,7 +55,7 @@
 ---
 
 ## 🔧 Steps Performed
-1. Opened `ipv4-addressing.pkt` in Cisco Packet Tracer.  
+1. Opened `IPv4_address_configuration.pkt` in Cisco Packet Tracer.  
 2. Entered global configuration mode and set the router hostname to `R1`.  
 3. Checked interfaces with `show ip interface brief`.  
 4. Configured IP addresses and enabled each interface:  
@@ -86,7 +85,7 @@
 ---
 
 ## 📂 Files in this folder
-- `ipv4-addressing.pkt` → Packet Tracer lab file  
+- `IPv4_address_configuration.pkt` → Packet Tracer lab file  
 - `topology.jpg` → Final topology screenshot  
 - `README.md` → Lab documentation  
 

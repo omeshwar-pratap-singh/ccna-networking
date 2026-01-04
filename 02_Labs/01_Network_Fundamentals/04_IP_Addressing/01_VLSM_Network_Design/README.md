@@ -32,7 +32,7 @@
 
 ## 📝 Lab Topology
 
-Final Topology:
+### Final Topology
 ![Topology](topology.jpg)
 
 ---

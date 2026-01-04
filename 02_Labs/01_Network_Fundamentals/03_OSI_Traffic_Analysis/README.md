@@ -1,8 +1,8 @@
-# Lab: OSI Model & TCP/IP SUITE
+# Lab: OSI Traffic Analysis
 
 **Date:** 2025-05-22  
 **Tool:** Cisco Packet Tracer  
-**Lab File:** `osi-model.pkt`
+**Lab File:** `osi_traffic_analysis.pkt`
 
 ---
 
@@ -53,6 +53,6 @@ Different types of traffic (ARP, ICMP, DNS, DHCP) were generated and their OSI l
 ---
 
 ## 📂 Files in this folder
-- `osi-model.pkt` → Packet Tracer lab file  
+- `osi_traffic_analysis.pkt` → Packet Tracer lab file  
 - `topology.jpg` → Final topology screenshot  
 - `README.md` → Lab documentation  
