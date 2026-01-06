@@ -19,3 +19,10 @@
 15. [STP Toolkit](15.1_stp_toolkit.pdf)
 15. [STP Toolkit](15.2_stp_toolkit.pdf)
 16. [Rapid STP](16_rapid_stp.pdf)
+17. [EtherChannel](17_etherchannel.pdf)
+18. [Dynamic Routing](18_dynamic_routing.pdf)
+19. [RIP & EIGRP](19_rip&eigrp.pdf)
+20. [OSPF Part-1](20.1_OSPF(part1).pdf)
+20. [OSPF Part-2](20.2_OSPF(part1).pdf)
+20. [OSPF Part-3](20.3_OSPF(part1).pdf)
+
