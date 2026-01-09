@@ -113,6 +113,7 @@ ccna-networking/
 **Omeshwar Pratap Singh**  
 B.Tech Student | Networking & Cybersecurity    
 LinkedIn: https://www.linkedin.com/in/omeshwar23
+<br>
 GitHub: https://github.com/omeshwar-pratap-singh
 
 ---
