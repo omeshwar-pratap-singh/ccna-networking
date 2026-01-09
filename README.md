@@ -78,48 +78,24 @@ This **notes → lab → verification** flow is intentional and mirrors real-wor
 
 ## Repository Structure
 
-┌──────────────────────────────────────────────┐
-│               ccna-networking/               │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ┌───────────────┐                           │
-│  │ 01_Notes/     │                           │
-│  ├───────────────┤                           │
-│  │ 01_network_devices.pdf                    │
-│  │ 02_interface_and_cable.pdf                │
-│  │ 03_osi_model_and_tcp_ip_suite.pdf         │
-│  │ 04_cisco_ios_cli.pdf                      │
-│  │ 05_ethernet_lan_switching.pdf             │
-│  └───────────────┘                           │
-│                                              │
-│  ┌───────────────┐                           │
-│  │ 02_Labs/      │                           │
-│  ├───────────────┤                           │
-│  │ ┌──────────────────────────────┐         │
-│  │ │ 01_Network_Fundamentals/      │         │
-│  │ └──────────────────────────────┘         │
-│  │ ┌──────────────────────────────┐         │
-│  │ │ 02_Switching_Basics/          │         │
-│  │ └──────────────────────────────┘         │
-│  │ ┌──────────────────────────────┐         │
-│  │ │ 03_Routing_Basics/            │         │
-│  │ └──────────────────────────────┘         │
-│  │ ┌──────────────────────────────┐         │
-│  │ │ 04_Security/                  │         │
-│  │ │ ┌──────────────────────────┐ │         │
-│  │ │ │ 01_Basic_Device_Security/ │ │         │
-│  │ │ └──────────────────────────┘ │         │
-│  │ └──────────────────────────────┘         │
-│  │ ┌──────────────────────────────┐         │
-│  │ │ 05_Switching_Advanced/        │         │
-│  │ └──────────────────────────────┘         │
-│  └───────────────┘                           │
-│                                              │
-│  ┌───────────────┐                           │
-│  │ README.md     │                           │
-│  └───────────────┘                           │
-│                                              │
-└──────────────────────────────────────────────┘
+ccna-networking/
+├── 01_Notes/
+│   ├── 01_network_devices.pdf
+│   ├── 02_interface_and_cable.pdf
+│   ├── 03_osi_model_and_tcp_ip_suite.pdf
+│   ├── 04_cisco_ios_cli.pdf
+│   ├── 05_ethernet_lan_switching.pdf
+│   └── ...
+│
+├── 02_Labs/
+│   ├── 01_Network_Fundamentals/
+│   ├── 02_Switching_Basics/
+│   ├── 03_Routing_Basics/
+│   ├── 04_Security/
+│   ├── 05_Switching_Advanced/
+│   └── ...
+│
+└── README.md
 
 ---
 
