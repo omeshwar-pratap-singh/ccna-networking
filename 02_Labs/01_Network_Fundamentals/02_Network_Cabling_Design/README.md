@@ -1,5 +1,6 @@
 # Lab: Network Cabling Design
-**Date:** 2025-05-21  
+
+**Date:** 18 Sept 2025  
 **Tool:** Cisco Packet Tracer  
 **Lab File:** `network_cabling_design.pkt`
 

@@ -1,6 +1,6 @@
 # Lab: VLSM Network Design
 
-**Date:** 2025-11-26
+**Date:** 30 Sept 2025
 **Tool:** Cisco Packet Tracer  
 **Lab File:** `vlsm_network_design.pkt`
 

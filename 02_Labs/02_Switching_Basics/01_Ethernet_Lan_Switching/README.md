@@ -1,6 +1,6 @@
 # Lab: Ethernet LAN Switching
 
-**Date:** 2025-09-16  
+**Date:** 05 Oct 2025  
 **Tool:** Cisco Packet Tracer  
 **Lab File:** `ethernet-lan-switching.pkt`
 

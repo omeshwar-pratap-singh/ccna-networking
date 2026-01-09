@@ -1,6 +1,6 @@
 # Lab: Secure Branch Network Design
 
-**Date:** 2025-05-20  
+**Date:** 13 Sept 2025  
 **Tool:** Cisco Packet Tracer  
 **Lab File:** `secure_branch_network_design.pkt`
 

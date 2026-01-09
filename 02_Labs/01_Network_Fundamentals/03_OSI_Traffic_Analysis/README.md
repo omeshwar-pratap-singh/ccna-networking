@@ -1,6 +1,6 @@
 # Lab: OSI Traffic Analysis
 
-**Date:** 2025-05-22  
+**Date:** 23 Sept 2025  
 **Tool:** Cisco Packet Tracer  
 **Lab File:** `osi_traffic_analysis.pkt`
 

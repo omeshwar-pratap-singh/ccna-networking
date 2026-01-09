@@ -1,6 +1,6 @@
 # Lab: Switches & Interface Configuration
 
-**Date:** 2025-09-16  
+**Date:** 15 Oct 2025  
 **Tool:** Cisco Packet Tracer  
 **Lab File:** `switch_interface_configuration.pkt`
 

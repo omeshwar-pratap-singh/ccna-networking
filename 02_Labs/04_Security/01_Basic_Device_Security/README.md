@@ -1,6 +1,6 @@
 # Lab: Basic Device Security
 
-**Date:** 2025-05-23  
+**Date:** 18 Nov 2025
 **Tool:** Cisco Packet Tracer  
 **Lab File:** `basic-device-security.pkt`
 
