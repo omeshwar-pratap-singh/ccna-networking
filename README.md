@@ -78,7 +78,7 @@ This **notes → lab → verification** flow is intentional and mirrors real-wor
 
 ## Repository Structure
 
-```text
+
 ccna-networking/
 ├── 01_Notes/
 │   ├── 01_network_devices.pdf
