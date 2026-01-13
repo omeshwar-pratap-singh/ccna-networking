@@ -78,7 +78,7 @@ This **notes → lab → verification** flow is intentional and mirrors real-wor
 
 ## Repository Structure
 
-
+```text
 ccna-networking/
 ├── 01_Notes/
 │   ├── 01_network_devices.pdf
@@ -97,6 +97,7 @@ ccna-networking/
 │   └── ...
 │
 └── README.md
+```
 
 ---
 
@@ -112,6 +113,7 @@ ccna-networking/
 **Omeshwar Pratap Singh**  
 B.Tech Student | Networking & Cybersecurity    
 LinkedIn: https://www.linkedin.com/in/omeshwar23
+<br>
 GitHub: https://github.com/omeshwar-pratap-singh
 
 ---
