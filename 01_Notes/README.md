@@ -30,3 +30,5 @@
 23. [IPv6 Part-1](23.1_IPv6(Part-1).pdf)
 23. [IPv6 Part-2](23.2_IPv6(Part-2).pdf)
 23. [IPv6 Part-3](23.3_IPv6(Part-3).pdf)
+24. [Standard ACLs](24_Standard_ACLs.pdf)
+23. [Extended ACLs](25_Extended_ACLs.pdf)
